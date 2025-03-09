@@ -1,0 +1,15 @@
+{
+	"id":"101",
+	"name":"Pradaap",
+	"Address":{
+		   "street":"NSK2nd",
+		   "DoorNo":"397"	
+			
+		  },
+	"Phone_number": [
+		{
+		 "type":"home",
+		 "phoneno":"9597324119"
+		}
+	]
+}
